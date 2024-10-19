@@ -1,1 +1,1 @@
-This repository contains Presentation and files about Blockchain Technology for ACD-ELA 
+This repository contains presentations and files related to Blockchain Technology for ACD-ELA 
